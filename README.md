@@ -28,12 +28,10 @@
 ## 🔧 Tech Stack & Tools
 
 <div align="center">
-  <!-- Skillicons.dev Icons -->
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,postgresql,python,c,java,mysql,aws,git,github,postman,figma,vscode" alt="Tech Stack" />
-
-  <!-- C++ Icon from Devicon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,postgresql,python,c,java,mysql,aws,git,github,postman,figma,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
 </div>
+
 
 
 ---
