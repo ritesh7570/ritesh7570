@@ -1,6 +1,7 @@
 <!-- README Banner -->
+<!-- README Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&lines=Hey+there!+I'm+Ritesh+Kumar+👋;Backend+Developer+|+Cloud+Lover+|+AI%2FML+Explorer;Turning+Coffee+%E2%98%95+into+Code+Everyday!">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&lines=Hey+there!+I'm+Ritesh+Kumar+👋;Backend+Developer+|+Cloud+Lover+|+AI%2FML+Explorer;Turning+Coffee+☕+into+Code+Everyday!" />
 </p>
 
 ---
