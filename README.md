@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,postgresql,python,c,java,mysql,aws,git,github,postman,figma,vscode&perline=7" alt="Tech Stack" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" style="margin-left: 8px;" />
 </p>
 
 
