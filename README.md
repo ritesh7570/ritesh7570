@@ -58,7 +58,7 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/riteshpower" target="_blank">
+  <a href="https://www.linkedin.com/in/ritesh-kumar-919b0121b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/ritesh7570" target="_blank">
