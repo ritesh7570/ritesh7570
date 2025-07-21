@@ -28,8 +28,11 @@
 ## 🔧 Tech Stack & Tools
 
 <p align="center">
+  <!-- Skillicons icons -->
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,postgresql,python,c,java,mysql,aws,git,github,postman,figma,vscode&perline=7" alt="Tech Stack" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" style="margin-left: 8px;" />
+
+  <!-- C++ icon with manual spacing using non-breaking space -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++">&nbsp;&nbsp;
 </p>
 
 
