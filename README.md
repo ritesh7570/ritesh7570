@@ -1,16 +1,77 @@
-## Hi there 👋
+<!-- README Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&lines=Hey+there!+I'm+Ritesh+Kumar+👋;Backend+Developer+|+Cloud+Lover+|+AI%2FML+Explorer;Turning+Coffee+%E2%98%95+into+Code+Everyday!">
+</p>
 
-<!--
-**ritesh7570/ritesh7570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritesh7570&label=Visitors&style=flat-square&color=brightgreen" alt="Profile Views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ About Me
+
+- 🎓 Final-year IT Student at **Heritage Institute of Technology, Kolkata**
+- 🧠 Passionate about **Backend Development**, **AI/ML**, and **Cloud**
+- 🛠️ Tech I'm working with: **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, **Python**
+- 📊 Currently diving into **Data Analytics & Visualization**
+- 🏆 **SIH 2024 Winner** — *Mentor Connect Project*
+- 💬 Ask me about **REST APIs**, **Databases**, **Server-Side Logic**
+- 📫 Reach out: [ritesh7882@gmail.com](mailto:ritesh7882@gmail.com)
+- ✨ Fun Fact: I use `console.log` more than a debugger 😅
+
+---
+
+## 🔧 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,postgresql,python,c,java,git,github,postman,figma,vscode&perline=7" alt="Tech Stack" />
+</p>
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritesh7570&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ritesh7570&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh7570&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+## 🚀 Projects & Achievements
+
+- 🧑‍💻 **MentorConnect** – Smart India Hackathon 2024 Winning Project (Backend)
+- 📊 **EV Dashboard** – React + Charts.js based visual dashboard
+- 🧑‍💻 **Alumni Connect** – Hack Heritage Top 25 Project from 200 (Backend + Tean lead)
+- 💡 Always building something new — AI tools, APIs, or backend systems
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/riteshpower" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/ritesh7570" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:ritesh7882@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks+for+visiting+my+profile!&fontColor=ffffff" />
+</p>
