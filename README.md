@@ -27,13 +27,13 @@
 
 ## 🔧 Tech Stack & Tools
 
-<p align="center">
-  <!-- Skillicons icons -->
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,postgresql,python,c,java,mysql,aws,git,github,postman,figma,vscode&perline=7" alt="Tech Stack" />
+<div align="center">
+  <!-- Skillicons.dev Icons -->
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,postgresql,python,c,java,mysql,aws,git,github,postman,figma,vscode" alt="Tech Stack" />
 
-  <!-- C++ icon with manual spacing using non-breaking space -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++">&nbsp;&nbsp;
-</p>
+  <!-- C++ Icon from Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+</div>
 
 
 ---
