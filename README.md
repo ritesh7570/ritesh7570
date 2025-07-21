@@ -125,6 +125,6 @@
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ABDE3&height=180&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=24&fontColor=ffffff&fontAlign=50&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ABDE3&height=180&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=50&fontColor=ffffff&fontAlign=50&descAlign=50" />
 </p>
 
